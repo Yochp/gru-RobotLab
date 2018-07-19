@@ -1,0 +1,77 @@
+//db.parts
+//{
+//  "cpu" : "i5 ne",
+//  "engine" : "GPU",
+//  "id" : 101,
+//  "name" : "Lidar",
+//  "type" : "Sensors"
+//}
+//{
+//  "cpu" : "Core 2 Duo",
+//  "engine" : "GPU",
+//  "id" : 102,
+//  "name" : "Cytron 13A",
+//  "type" : "Cameras"
+//}
+//{
+//  "cpu" : "Core M",
+//  "engine" : "Volta",
+//  "id" : 103,
+//  "name" : "LIDAR-Lite 3",
+//  "type" : "Control Systems"
+//},
+//{
+//  "cpu" : "Merom-L",
+//  "engine" : "Quadro",
+//  "id" : 104,
+//  "name" : "Lidar",
+//  "type" : "hydraulics"
+//}
+//{
+//  "cpu" : "Penryn",
+//  "engine" : "Tesla",
+//  "id" : 105,
+//  "name" : "Lynxmotion",
+//  "type" : "Pneumatics"
+//}
+//{
+//  "id" : 123456,
+//  "engine" : "3",
+//  "name" : "3400245Try3",
+//  "cpu" : "blalala ",
+//  "type" : "ba",
+//}
+//
+//
+//
+//db.robots
+//{
+//  "id" : 1,
+//  "age" : 15,
+//  "name" : "Dave",
+//  "type" : "droid",
+//}
+//{
+//  "id" : 2,
+//  "age" : 16,
+//  "name" : "Dave2",
+//  "type" : "android",
+//}
+//{
+//  "id" : 4,
+//  "age" : 18,
+//  "name" : "Dave4",
+//  "type" : "droid",
+//}
+//{
+//  "id" : 5,
+//  "age" : 19,
+//  "name" : "mim0",
+//  "type" : "appleb",
+//}
+//{
+//  "id" : 25,
+//  "age" : 33,
+//  "name" : "try1",
+//  "type" : "TypeC_new",
+//}
